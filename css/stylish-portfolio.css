@@ -74,7 +74,7 @@ hr.small {
     margin-right: -250px;
     overflow-y: auto;
     background: #222;
-    background:url(img/stl.jpg);
+    background:url(../img/stl.jpg);
     background-repeat:no-repeat;
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
