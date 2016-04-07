@@ -70,7 +70,7 @@ hr.small {
     position: fixed;
     right: 0;
     width: 250px;
-    height: 1000px;
+    height: 100%;
     margin-right: -250px;
     overflow-y: auto;
     background: #222;
@@ -87,6 +87,7 @@ hr.small {
     position: absolute;
     top: 0;
     width: 250px;
+    height:650px;
     margin: 0;
     padding: 0;
     list-style: none;
